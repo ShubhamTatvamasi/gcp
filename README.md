@@ -1,6 +1,7 @@
 # gcp
 GCP commands
 
+### Project Commands:
 Project List
 ```
 gcloud projects list
@@ -16,7 +17,7 @@ Set Project
 gcloud config set project project-name
 ```
 ---
-
+### VM Commands:
 List of all VM instances
 ```
 gcloud compute instances list
