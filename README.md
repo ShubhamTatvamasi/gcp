@@ -1,7 +1,7 @@
 # gcloud commands
 
 ### Project Commands:
-Project List
+Get Project List
 ```
 gcloud projects list
 ```
