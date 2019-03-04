@@ -1,5 +1,4 @@
-# gcp
-GCP commands
+# GCP Commands
 
 ### Project Commands:
 Project List
