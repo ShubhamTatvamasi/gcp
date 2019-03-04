@@ -13,7 +13,7 @@ gcloud config list
 
 Set Project
 ```
-gcloud config set project *project-name*
+gcloud config set project project-name
 ```
 ---
 ### VM Commands:
