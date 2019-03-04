@@ -1,4 +1,4 @@
-# GCP Commands
+# gcloud commands
 
 ### Project Commands:
 Project List
