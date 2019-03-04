@@ -15,6 +15,7 @@ Set Project
 ```
 gcloud config set project project-name
 ```
+---
 
 List of all VM instances
 ```
