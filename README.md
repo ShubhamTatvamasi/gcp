@@ -16,6 +16,11 @@ Set Project
 gcloud config set project project-name
 ```
 
+Check all regions
+```
+gcloud compute regions list
+```
+
 Set Zone
 ```
 gcloud config set zone asia-south1-a
