@@ -15,6 +15,11 @@ Set Project
 ```
 gcloud config set project project-name
 ```
+
+Set Zone
+```
+gcloud config set zone asia-south1-a
+```
 ---
 ### VM Commands:
 List of all VM instances
