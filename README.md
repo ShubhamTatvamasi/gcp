@@ -41,3 +41,16 @@ For SSH
 ```
 gcloud compute ssh instance-name
 ```
+---
+
+### Machine types:
+
+Get machine-types list
+```
+gcloud compute machine-types list
+```
+
+Get machine-types describe
+```
+gcloud compute machine-types describe n1-standard-1 --zone asia-south1-a
+```
