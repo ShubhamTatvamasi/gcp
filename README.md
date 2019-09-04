@@ -25,6 +25,11 @@ Set region
 ```
 gcloud config set compute/region asia-south1
 ```
+
+Set zone
+```
+gcloud config set compute/zone asia-south1-a
+```
 ---
 ### VM Commands:
 List of all VM instances
